@@ -47,53 +47,49 @@
       }
     },
     "size": {
-      "small": {
-        "xxs": {
-          "value": "4",
-          "type": "sizing"
-        },
-        "xs": {
-          "value": "8",
-          "type": "sizing"
-        },
-        "sm": {
-          "value": "12",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "16",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "24",
-          "type": "sizing"
-        },
-        "xl": {
-          "value": "32",
-          "type": "sizing"
-        },
-        "2xl": {
-          "value": "48",
-          "type": "sizing"
-        },
-        "3xl": {
-          "value": "64",
-          "type": "sizing"
-        }
+      "xxs": {
+        "value": "4px",
+        "type": "sizing"
       },
-      "large": {
-        "xs": {
-          "value": "80",
-          "type": "sizing"
-        },
-        "sm": {
-          "value": "104",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "176",
-          "type": "sizing"
-        }
+      "xs": {
+        "value": "8px",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "12px",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "16px",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "24px",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "32px",
+        "type": "sizing"
+      },
+      "2xl": {
+        "value": "48px",
+        "type": "sizing"
+      },
+      "3xl": {
+        "value": "64px",
+        "type": "sizing"
+      },
+      "4xl": {
+        "value": "80px",
+        "type": "sizing"
+      },
+      "5xl": {
+        "value": "104px",
+        "type": "sizing"
+      },
+      "6xl": {
+        "value": "176px",
+        "type": "sizing"
       }
     },
     "emphasis": {
