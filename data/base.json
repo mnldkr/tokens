@@ -116,11 +116,11 @@
     },
     "radii": {
       "none": {
-        "value": "0",
+        "value": "0px",
         "type": "borderRadius"
       },
       "xs": {
-        "value": "4",
+        "value": "4px",
         "type": "borderRadius"
       },
       "sm": {
