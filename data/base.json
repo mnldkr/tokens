@@ -124,41 +124,41 @@
         "type": "borderRadius"
       },
       "sm": {
-        "value": "8",
+        "value": "8px",
         "type": "borderRadius"
       },
       "md": {
-        "value": "16",
+        "value": "16px",
         "type": "borderRadius"
       },
       "lg": {
-        "value": "24",
+        "value": "24px",
         "type": "borderRadius"
       },
       "xl": {
-        "value": "32",
+        "value": "32px",
         "type": "borderRadius"
       },
       "full": {
-        "value": "999",
+        "value": "999px",
         "type": "borderRadius"
       },
       "2xl": {
-        "value": "44",
+        "value": "44px",
         "type": "borderRadius"
       }
     },
     "borderWidth": {
       "none": {
-        "value": "0",
+        "value": "0px",
         "type": "borderWidth"
       },
       "xs": {
-        "value": "1",
+        "value": "1px",
         "type": "borderWidth"
       },
       "sm": {
-        "value": "2",
+        "value": "2px",
         "type": "borderWidth"
       }
     },
